@@ -1,0 +1,171 @@
+h2{color: red;
+}
+.sec{
+    width: 100%;
+}
+.col{
+    color: chartreuse;
+}
+.sec2{
+    width: 49%;
+    margin: right 4px ;
+    height:222px;
+    float: left;
+    background-color: cyan;
+    padding:5%;
+}
+.sec3{ 
+    width:40%; float: left;
+}
+.sec4{
+    width: 40%; float: left;
+}
+.sec5{
+    width: 50%; 
+    float: left;
+    background-color: white;
+    padding: 5%;
+}  
+.feb{
+    color: white;
+}
+.and{
+    color: green;
+}
+.row{
+    width: 20%;
+    float: left; 
+    margin-left: 40px;
+    padding: 10px;
+}
+.ott{
+    text-align: center;
+}
+.main{
+    width: 100%;
+    margin-top: 28%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding-bottom: 20%; 
+}
+
+.fast{
+    color: orange;
+    
+}
+.heart{
+    color: red;
+}
+.cam{
+    color: rgb(255, 174, 0);
+}
+.pow{
+    color: green;
+}
+.dim{
+     
+color: white;
+}
+.clu{
+    
+    color: blue;
+}
+.glo{
+    color: yellow;
+}
+.hd{
+
+    color: skyblue;
+}
+.wii{
+    color: black;
+}
+.pc{
+    color: rgb(255, 192, 227);
+}
+.sec8{
+    text-align: center;
+    font-size: 20px;
+}    
+.bas{
+    background-color:gray;
+ }
+ .dow{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+ }
+ .sec11{
+    width: 15%; 
+    float: left;
+    margin-left: 36%;
+    font-size: 20px;
+}
+.sec12{
+    width: 15%;
+    float: left;
+    font-size: 20px;
+}
+
+.tab{
+    background-color: red;
+ }
+ .image{
+    position: relative;
+ }
+ .text{
+    position: absolute; 
+    left: 2%; 
+    top: 30px;
+    right: 150px;
+    padding: 20px;
+    width: 10%; 
+    background-color: rgba(0, 0, 0, 0.37);
+    color: white;
+ }
+ .si{
+    background-color: green;
+    color: white;
+ }
+ 
+.ic{
+    width: 100%;
+    float: left;
+    align-items: center;
+    padding: 3%;
+    background-color: gray;
+    margin-top: 7%;
+
+}
+
+.ico.fa-brands {
+    margin-right:60px ;
+}
+.ins{
+     color: rgb(204, 19, 81);
+     font-size: 30px;
+     margin-left: 30px;
+ }
+.fas{
+     color: rgb(15, 15, 130);
+     font-size: 30px;
+     margin-left: 30px;
+ }
+.snp{
+     color:yellow;
+     font-size: 30px;
+     margin-left: 30px;
+ }
+.f1{
+    color: rgb(3, 3, 30);
+    font-size: 30px;
+    margin-right: 30px;
+    /* margin-left: 30px; */
+}
+.p{
+     color: rgb(148, 238, 130);
+     font-size: 30px;
+     margin-left: 30px;
+ }
+          
